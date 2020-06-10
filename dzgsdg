@@ -1,0 +1,61 @@
+[33mcommit 97175e71d923561b6f8a54f6e25d5c5bd0d5c72c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 94b1eff fbb0c91
+Author: Safwan Amani <safwanamanikps@gmail.com>
+Date:   Wed Jun 10 12:05:06 2020 +0530
+
+    conflict fixed
+
+[33mcommit 94b1eff6402ed8da3fdccf660c44352b80e6f783[m
+Author: Safwan Amani <safwanamanikps@gmail.com>
+Date:   Wed Jun 10 12:03:20 2020 +0530
+
+    negative answer added
+
+[33mcommit fbb0c9121ab4f8fa9d05034a566280ddc9f73bb2[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: Safwan Amani <safwanamanikps@gmail.com>
+Date:   Wed Jun 10 12:01:25 2020 +0530
+
+    positive answer added
+
+[33mcommit b6de6f29719cc1dd83238ee58eb1e94bc831ac0f[m
+Merge: 5597aba 458f6dd
+Author: Safwan Amani <safwanamanikps@gmail.com>
+Date:   Wed Jun 10 11:23:43 2020 +0530
+
+    Merged feature in to master
+
+[33mcommit 458f6dd48eaca6db43418a470e8b15bce0191264[m
+Author: Safwan Amani <safwanamanikps@gmail.com>
+Date:   Wed Jun 10 11:12:40 2020 +0530
+
+    modified hello
+
+[33mcommit 5597abaaea340f2e689a1605518f37bf38157804[m
+Author: Safwan Amani <safwanamanikps@gmail.com>
+Date:   Wed Jun 10 11:07:29 2020 +0530
+
+    modified hey
+
+[33mcommit ad640be23dbcdcc9e92304543e71e69705269f8e[m
+Author: Safwan Amani <safwanamanikps@gmail.com>
+Date:   Wed Jun 10 10:34:10 2020 +0530
+
+    hey file edited
+
+[33mcommit 2c518bee3a968e08e6b5afad3788b2844c9edfc6[m
+Author: Safwan Amani <safwanamanikps@gmail.com>
+Date:   Wed Jun 10 10:26:11 2020 +0530
+
+    add hey file
+
+[33mcommit e9e896fb734f11b350553514bf6450a31a8ef278[m
+Author: Safwan Amani <safwanamanikps@gmail.com>
+Date:   Wed Jun 10 09:57:31 2020 +0530
+
+    add some messages
+
+[33mcommit 7d47dc091d1ee08ec44e05993425183156b210ee[m
+Author: Safwan Amani <safwanamanikps@gmail.com>
+Date:   Wed Jun 10 09:45:54 2020 +0530
+
+    Initial commit
